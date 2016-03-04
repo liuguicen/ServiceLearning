@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Service Learn/Service Learn.iml" filepath="$PROJECT_DIR$/Service Learn/Service Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceLearning.iml" filepath="$PROJECT_DIR$/ServiceLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIDLClient/aidlclient.iml" filepath="$PROJECT_DIR$/AIDLClient/aidlclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+    </modules>
+  </component>
+</project>
